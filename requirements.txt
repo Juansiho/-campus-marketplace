@@ -1,0 +1,4 @@
+SQLAlchemy>=2.0,<3.0
+alembic>=1.13
+pymysql>=1.1
+pytest>=8.0
